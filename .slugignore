@@ -1,0 +1,11 @@
+# Ignore os caches e pastas temporárias
+.cache
+.pytest_cache
+*.pyc
+__pycache__
+*.log
+*.tar.gz
+*.zip
+node_modules/
+*.dat
+*.tar
