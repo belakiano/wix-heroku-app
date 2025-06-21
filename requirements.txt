@@ -1,5 +1,4 @@
-# Ficheiro: requirements.txt
-# CORREÇÃO: Versão limpa, apenas com os nomes dos pacotes.
+```txt
 Flask==3.0.0
 Pillow==10.1.0
 torch==2.1.0
@@ -9,4 +8,3 @@ diffusers==0.24.0
 accelerate==0.25.0
 fastjsonschema==2.19.1
 gunicorn==21.2.0
-```html
